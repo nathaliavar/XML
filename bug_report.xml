@@ -1,1 +1,14 @@
-
+<xml>
+  <project>www.test.com</project>
+   <ID>2856645</ID>
+   <createdDate>01.05.2022</createdDate>
+   <name>Don't work button 'Enter' on the main page</name>
+   <severity>high</severity>
+   <priority>high</priority>
+   <stepsToReproduce>
+      <element>Open site www.test.com</element>
+      <element>Click button 'Enter'</element>
+   </stepsToReproduce>
+  <expectedResult>Open new page</expectedResult>
+  <actualeResult>Nothing happened</actualeResult>
+</xml>
