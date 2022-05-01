@@ -1,0 +1,16 @@
+
+<xml>
+   <hardSkills>
+		<skill>Postman</skill>
+		<skill>Javascript</skill>
+		<skill>Git</skill>
+		<skill>QA theory</skill>
+		<skill>Comand line</skill>
+		<skill>Charles</skill>
+	</hardSkills>
+	<softSlills>
+		<skill>Communication</skill>
+		<skill>Discipline</skill>
+		<skill>Attentiveness</skill>
+	</softSlills>
+</xml>
